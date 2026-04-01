@@ -47,3 +47,18 @@
    47  git merge develop
    48  git log
    49   history > command_list.csv
+   50  git add .
+   51  git commit -m "downloaded the history to a csv file"
+   52  git push
+   53  cd /C/Users/Юлія/Desktop/GIT/HW_100/HW_10
+   54  echo "text_ignore.txt" >> .gitignore
+   55  gid add .
+   56  git add .
+   57  git status
+   58  cd /C/Users/Юлія/Desktop/GIT/HW_100/HW_10
+   59  rm text_ignore.txt
+   60  git status
+   61  git commit "file delete text_ignore.tx"
+   62  git commit -m "file delete text_ignore.tx"
+   63  cd /C/Users/Юлія/Desktop/GIT/HW_100/HW_10
+   64   history > command_list.csv
